@@ -1,2 +1,2 @@
-# Decorator Pattern Slides und Demo-projekt
+# Decorator Pattern Slides und Demoprojekt
 von Valentin Knappich und Daniel Bicek
